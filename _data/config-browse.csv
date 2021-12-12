@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 creator,Creator,,,Creator
 mealtype,Meal Type,,,Meal Type
-mainingredient,Main Ingredient,,,Main Ingredient
+mainingredient,Main Ingredient,true,,Main Ingredient
 seasonality,Seasonality,,true,Seasonality
 cookingmethod,Cooking Method,,true,Cooking Method
