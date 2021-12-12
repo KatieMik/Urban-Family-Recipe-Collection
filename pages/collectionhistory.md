@@ -1,7 +1,7 @@
 ---
 title: Collection History
 layout: about
-permalink: /collectionhistory.html
+permalink: /collectionhistory.md
 ---
 The Urban Family Recipe Collection began its life in a three-ring yellow binder. Originally organized as a Christmas gift by Joy Urban, she made copies for members of her extended family. This includes her parents, Esther and Donald Urban, her brother Dave Urban and his wife, Laura Urban, and their children and their partners: Kristine and Kurt Makiewicz, Leslie Urban, Greg Urban and Josh Clary, and Emy Urban and Katie Mikulka. These binders initially served as a way to preserve beloved family recipes for family members to reference and recreate. Throughout the COVID-19 pandemic, the Urban family turned to technologies like Zoom and Marco Polo to stay connected and share updates. Conversations often turned to cooking and food, a way of virtually sharing nourishment and finding community across Washington, California, Illinois, Maryland, and Massachusetts. New additions to the famous yellow binders were made in late 2020 to capture many of the recipes shared throughout the year. 
 
