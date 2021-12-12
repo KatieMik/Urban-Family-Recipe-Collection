@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link
 identifier, Identifier,,
 format,Format,,
 title,Title,,
-creator,Creator,browse_link
+creator,Creator,browse_link,
 description,Description,
-mealtype, Meal Type, browse_link
-mainingredient, Main Ingredient, browse_link
-seasonality, Seasonality, browse_link
-cookingmethod, Cooking Method, browse_link
+mealtype, Meal Type, browse_link,
+mainingredient, Main Ingredient, browse_link,
+seasonality, Seasonality, browse_link,
+cookingmethod, Cooking Method, browse_link,
