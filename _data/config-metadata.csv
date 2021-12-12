@@ -1,15 +1,10 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+identifier, Identifier,,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,Title,
+creator,Creator,browse_link
+description,Description,
+mealtype, Meal Type, browse_link
+mainingredient, Main Ingredient, browse_link
+seasonality, Seasonality, browse_link
+cookingmethod, Cooking Method, browse_link
