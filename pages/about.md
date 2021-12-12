@@ -10,18 +10,12 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://s3.amazonaws.com/static.baggu.com/Wallpaper/SU21/Cucumbers/Cucumbers_2560_1440.png" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The <b> Urban Family Recipe Collection </b> began its life in a three-ring yellow binder. Organized as a Christmas gift by Joy Urban, she made copies for members of her extended family. This includes her parents, Esther and Donald Urban, her brother Dave Urban and his wife, Laura Urban, and their children and their partners: Kristine and Kurt Makiewicz, Leslie Urban, Greg Urban and Josh Clary, and Emy Urban and Katie Mikulka. These binders initially served as a way to preserve beloved family recipes for family members to reference and recreate. Throughout the COVID-19 pandemic, the Urban family turned to technologies like Zoom and Marco Polo to stay connected and share updates. Conversations often turned to cooking and food, a way of virtually sharing nourishment and finding community across Washington, California, Illinois, Maryland, and Massachusetts. New additions to the famous yellow binders were made in late 2020 to capture many of the recipes shared throughout the year. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The <b> Urban Family Recipe Collection </b> is a digital repository that collects many of these recipes. Organized by a variety of means, including a recipe’s creator, main ingredient, seasonality of ingredients, cooking method, or meal type, there are many ways to locate a desired recipe. The boxes on the homepage allow for searching by many of these dimensions, while the “Subjects” link in the top navigation bar provides a word cloud display of main ingredients. Once found, recipes can easily be printed or downloaded as a PDF for ease of reference or annotation. Hopefully, this collection will continue to grow as new recipes are developed. 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
