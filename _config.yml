@@ -22,10 +22,10 @@ source-code: https://katiemik.github.io/urban-family-recipe-collection/
 # title of site appears in banner
 title: Urban Family Recipe Collection
 # Recipes Cooked & Shared by the Urban Family
-tagline: Recipes Cooked & Shared by the Urban Family
+tagline: Recipes Cooked, Shared, and Loved by the Urban Family
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Use the menus above and to the right to search for your favorite Urban Family Recipes. Select different elements to find old favorites or discover something new!"
+description: "Use the navigation bar or buttons on the homepage to search for Urban Family Recipes. Select different elements to find old favorites or discover something new!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Katie Mikulka
 
