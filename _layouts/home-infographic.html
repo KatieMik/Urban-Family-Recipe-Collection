@@ -16,7 +16,9 @@ layout: page
 
     {% include index/featured-terms.html field="seasonality" title="Seasonality" btn-color="outline-secondary" %}
 
-    {% include index/objects.html %}
+    {% include index/featured-terms.html field="mealtype" max=10 title="Meal Type" btn-color="info" %}
+    
+    {% include index/featured-terms.html field="cookingmethod" title="Cooking Method" btn-color="outline-secondary" %}
 
   </div>
   <div class="col-md-12">
