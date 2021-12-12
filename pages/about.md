@@ -1,11 +1,3 @@
----
-title: About
-layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
----
-
 {% include feature/jumbotron.html objectid="https://s3.amazonaws.com/static.baggu.com/Wallpaper/SU21/Cucumbers/Cucumbers_2560_1440.png" %}
 
 {% include feature/nav-menu.html sections="About the Collection %}
