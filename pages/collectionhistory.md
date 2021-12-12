@@ -8,3 +8,4 @@ The Urban Family Recipe Collection began its life in a three-ring yellow binder.
 The Urban Family Recipe Collection is a digital repository that collects many of these recipes. Organized by a variety of means, including a recipe’s creator, main ingredient, seasonality of ingredients, cooking method, or meal type, there are many ways to locate a desired recipe. The boxes on the homepage allow for searching by many of these dimensions, while the “Subjects” link in the top navigation bar provides a word cloud display of main ingredients. Once found, recipes can easily be printed or downloaded as a PDF for ease of reference or annotation. This collection will hopefully continue to grow as new recipes are developed. 
 
 Happy Cooking!
+---
